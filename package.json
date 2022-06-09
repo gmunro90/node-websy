@@ -1,0 +1,25 @@
+{
+  "name": "websy",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmunro90/node-websy.git"
+  },
+  "author": "Greg Munro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmunro90/node-websy/issues"
+  },
+  "homepage": "https://github.com/gmunro90/node-websy#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
