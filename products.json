@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "apple" ,
+    "description": "round and red"
+  },
+  {
+    "id": 2,
+    "name": "orange",
+    "description": "round but orange"
+  },
+  {
+    "id":3 ,
+    "name": "banana",
+    "description": "not round, but yellow"
+  }
+]
